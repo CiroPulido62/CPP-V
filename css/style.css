@@ -260,7 +260,7 @@ footer {
 
 .education:hover{
     background-color:#276093;
-    box-shadow: 0 0 8px gray;
+    box-shadow: 0 0 8px #001671;
     transition: all ease-in-out .4s;
     color: #fff;
 }
